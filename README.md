@@ -39,6 +39,12 @@ This project is a simple checkout system for a computer store. It scans items in
    ```sh
    npm run start (this command will build the project and then start the application)
 
+## Project Structure
+
+The project is organized as follows:
+
+![Project Structure](<assets/Project Structure.png>)
+
 ## Tests
 
 Unit tests are provided to verify the functionality of the checkout system. The tests are located in the `src/__tests__` directory. Run the tests using:
@@ -50,10 +56,10 @@ npm run test
 ## Assets
 
 ### Application Output
-![Application Output](./assets/Application%20Output.png)
+![Application Output](<assets/Application Output.png>)
 
 ### Test Cases Output
-![Test Cases Output](./assets/Test%20Cases%20Output.png)
+![Test Cases Output](<assets/Test Cases Output.png>)
 
 ## Thanks
 
