@@ -1,0 +1,28 @@
+{
+  "name": "checkout-system",
+  "version": "1.0.0",
+  "description": "This project is a simple checkout system for a computer store. It scans items in any order and calculates the total price, applying various pricing rules and promotions as specified. The system is implemented in TypeScript and includes unit tests to verify functionality.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "start": "npm run build && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "Vishwesh Chotaliya",
+  "license": "ISC",
+  "jest": {
+    "verbose": true,
+    "preset": "ts-jest",
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/src/__tests__/**/*.test.ts"
+    ]
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  }
+}

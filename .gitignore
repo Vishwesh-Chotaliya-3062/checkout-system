@@ -1,0 +1,20 @@
+# Node.js dependencies
+/node_modules/
+
+# TypeScript build output
+/dist/
+/out-tsc/
+
+/*.log
+*.tsbuildinfo
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm package lock
+package-lock.json
