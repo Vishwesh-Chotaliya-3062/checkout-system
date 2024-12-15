@@ -9,7 +9,7 @@
     "start": "npm run build && node dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vishwesh Chotaliya",
   "license": "ISC",
   "jest": {
     "verbose": true,
