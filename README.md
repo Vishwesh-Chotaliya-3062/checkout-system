@@ -49,7 +49,10 @@ npm run test
 
 ## Assets
 
+### Application Output
 ![Application Output](./assets/Application%20Output.png)
+
+### Test Cases Output
 ![Test Cases Output](./assets/Test%20Cases%20Output.png)
 
 ## Thanks
